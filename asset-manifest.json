@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ShusilLimbu/Shusil-Pangdhak.github.io/static/css/main.3ff9dd5c.css",
+    "main.js": "/ShusilLimbu/Shusil-Pangdhak.github.io/static/js/main.c76f5bdf.js",
+    "static/js/787.7b834043.chunk.js": "/ShusilLimbu/Shusil-Pangdhak.github.io/static/js/787.7b834043.chunk.js",
+    "static/media/helvetica-neu.ttf": "/ShusilLimbu/Shusil-Pangdhak.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/ShusilLimbu/Shusil-Pangdhak.github.io/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/ShusilLimbu/Shusil-Pangdhak.github.io/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "index.html": "/ShusilLimbu/Shusil-Pangdhak.github.io/index.html",
+    "main.3ff9dd5c.css.map": "/ShusilLimbu/Shusil-Pangdhak.github.io/static/css/main.3ff9dd5c.css.map",
+    "main.c76f5bdf.js.map": "/ShusilLimbu/Shusil-Pangdhak.github.io/static/js/main.c76f5bdf.js.map",
+    "787.7b834043.chunk.js.map": "/ShusilLimbu/Shusil-Pangdhak.github.io/static/js/787.7b834043.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ff9dd5c.css",
+    "static/js/main.c76f5bdf.js"
+  ]
+}
